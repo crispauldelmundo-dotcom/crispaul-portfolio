@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cris Paul M. Del Mundo - VA Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f3f4f6;
+      color: #333;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+
+    .header {
+      background: #111827;
+      color: white;
+      padding: 40px;
+      text-align: center;
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: 42px;
+    }
+
+    .header p {
+      margin-top: 10px;
+      font-size: 18px;
+    }
+
+    .contact {
+      margin-top: 20px;
+      line-height: 1.8;
+      font-size: 15px;
+    }
+
+    .section {
+      padding: 35px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .section h2 {
+      color: #111827;
+      margin-bottom: 20px;
+    }
+
+    .card {
+      background: #f9fafb;
+      padding: 20px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .skill {
+      background: #111827;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 30px;
+      font-size: 14px;
+    }
+
+    ul {
+      padding-left: 20px;
+      line-height: 1.8;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+      background: #111827;
+      color: white;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="header">
+      <h1>Cris Paul M. Del Mundo</h1>
+      <p>Virtual Assistant | Customer Support | Sales & Operations Support</p>
+
+      <div class="contact">
+        📍 7C Taywanak 1, Alfonso, Cavite<br>
+        📞 09217007500<br>
+        📧 crispauldelmundo@gmail.com
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Professional Summary</h2>
+      <p>
+        Dedicated and detail-oriented professional with experience in customer service, sales support, lead generation, administrative assistance, and operations coordination. Skilled in remote work environments, communication management, scheduling, CRM systems, and customer relations. Highly organized, adaptable, and committed to delivering excellent support to clients and teams.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Work Experience</h2>
+
+      <div class="card">
+        <h3>Sales & Purchasing Manager - Wheelzy</h3>
+        <ul>
+          <li>Managed customer communication and scheduling.</li>
+          <li>Handled negotiations and operational coordination.</li>
+          <li>Maintained customer records and documentation.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Inside Sales & Upselling Representative - American Express & Chase</h3>
+        <ul>
+          <li>Provided customer support and account assistance.</li>
+          <li>Handled upselling and relationship management.</li>
+          <li>Managed high-volume customer interactions professionally.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Virtual Assistant Experience</h2>
+
+      <div class="card">
+        <ul>
+          <li>Email and calendar management</li>
+          <li>Lead generation and prospect research</li>
+          <li>Customer support via email, chat, and phone</li>
+          <li>CRM management and data entry</li>
+          <li>Appointment setting and scheduling</li>
+          <li>Administrative and operations support</li>
+          <li>Remote collaboration using Slack, Zoom, Trello, and Asana</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Sample Work</h2>
+
+      <div class="card">
+        <h3>Inbox & Calendar Management</h3>
+        <p>
+          Organized client emails, managed appointments, scheduled meetings, and handled follow-ups efficiently.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Lead Generation</h3>
+        <p>
+          Created prospect lists and organized lead databases using spreadsheets and CRM tools.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Customer Support</h3>
+        <p>
+          Assisted customers through phone and email support while resolving concerns professionally.
+        </p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Skills & Tools</h2>
+
+      <div class="skills">
+        <div class="skill">Google Workspace</div>
+        <div class="skill">Microsoft Office</div>
+        <div class="skill">Slack</div>
+        <div class="skill">Zoom</div>
+        <div class="skill">HubSpot</div>
+        <div class="skill">Salesforce</div>
+        <div class="skill">Zendesk</div>
+        <div class="skill">Canva</div>
+        <div class="skill">Trello</div>
+        <div class="skill">Asana</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      © 2026 Cris Paul M. Del Mundo - Virtual Assistant Portfolio
+    </div>
+
+  </div>
+
+</body>
+</html>
